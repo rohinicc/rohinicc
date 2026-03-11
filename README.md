@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,40:0d1117,100:0f3460&height=180&section=header&text=Rohini%20C&fontSize=65&fontColor=00ff41&fontAlignY=42&animation=fadeIn&desc=DevOps%20Enthusiast%20%7C%20Java%20Backend%20Learner%20%7C%20AI%20Builder&descSize=18&descAlignY=68&descColor=8b949e" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d0d0d,50:0d1117,100:0f3460&height=220&text=Hi%20👋,%20I'm%20Rohini&fontSize=52&fontColor=00ff41&animation=blinking&desc=DevOps%20Enthusiast%20%7C%20Java%20Backend%20Learner%20%7C%20AI%20Builder&descSize=18&descAlignY=75&descColor=8b949e" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&pause=1200&color=00FF41&center=true&vCenter=true&width=800&height=50&lines=%3E+Automating+workflows+...;%3E+Deploying+scalable+systems+...;%3E+Building+AI-powered+applications+...;%3E+Learning+%7C+Building+%7C+Shipping" alt="Typing SVG" />
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=750&height=45&lines=%3E+Automating+workflows+...;%3E+Deploying+scalable+systems+...;%3E+Building+AI-powered+apps+...;%3E+Learning+%7C+Building+%7C+Shipping+🚀" alt="Typing SVG" />
 
 <br/>
 
@@ -149,29 +151,13 @@ $ cat about_rohini.txt
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=__rohinicc__&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" height="175" alt="GitHub Stats"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=__rohinicc__&layout=compact&hide_border=true&langs_count=7&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" height="175" alt="Top Languages"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=__rohinicc__&hide_border=true&background=0d1117&ring=00ff41&fire=ff6600&currStreakLabel=00ff41&sideLabels=8b949e&dates=8b949e" alt="Streak Stats"/>
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rohini--c--na16-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohini-c-na16/)
 [![GitHub](https://img.shields.io/badge/GitHub-__rohinicc__-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/__rohinicc__)
-[![Email](https://img.shields.io/badge/Email-ccrohini04@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ccrohini04@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-ccrohini04@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ccrohini04@gmail.com)
 
 <br/>
 
@@ -183,12 +169,6 @@ $ cat about_rohini.txt
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=__rohinicc__&theme=high-contrast&hide_border=true&area=true&line=00ff41&point=ffffff&bg_color=0d1117" width="100%" alt="Contribution Graph"/>
-
-</div>
-
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,60:1a1a2e,100:0d0d0d&height=110&section=footer" width="100%"/>
 
 ```
@@ -197,5 +177,4 @@ $ cat about_rohini.txt
 
 **`// EOF — Rohini C | Bengaluru 🇮🇳`**
 
-</div>
-⭐ From building AI models to automating deployments, I'm always excited to create and learn new things.
+</div>to automating deployments, I'm always excited to create and learn new things.
