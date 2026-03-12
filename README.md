@@ -1,39 +1,26 @@
 <div align="center">
 
-<!-- Animated Top Wave -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00ff41,50:0f3460,100:0d0d0d&height=250&text=Rohini%20C&fontSize=72&fontColor=ffffff&fontAlignY=50&animation=fadeIn&stroke=00ff41&strokeWidth=2&desc=DevOps%20%E2%80%A2%20Java%20Backend%20%E2%80%A2%20AI%20Builder&descSize=20&descColor=00ff41&descAlignY=72" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00ff41,50:0f3460,100:0d0d0d&height=250&text=Rohini%20C&fontSize=72&fontColor=ffffff&fontAlignY=50&animation=fadeIn&stroke=00ff41&strokeWidth=2&desc=Java%20Full%20Stack%20Developer%20%E2%80%A2%20DevOps%20Engineer&descSize=20&descColor=00ff41&descAlignY=72" width="100%"/>
 
-<!-- Animated Greeting -->
 <br/>
 
-<a href="https://github.com/__rohinicc__">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=24&duration=2000&pause=800&color=00FF41&center=true&vCenter=true&multiline=false&width=700&height=50&lines=Hi+there+👋,+I'm+Rohini+C;Welcome+to+my+GitHub+profile!;DevOps+Enthusiast+⚙️;Java+Backend+Learner+☕;AI+Builder+🤖;Based+in+Bengaluru,+India+📍" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=22&duration=2000&pause=900&color=00FF41&center=true&vCenter=true&width=700&height=50&lines=Hi+there+👋,+I'm+Rohini+C;Java+Full+Stack+Developer+☕;DevOps+Engineer+⚙️;Building+%26+Automating+Real-World+Systems;Based+in+Bengaluru,+India+📍" alt="Typing SVG" />
 
 <br/><br/>
 
-<!-- Intro badges row -->
-<img src="https://img.shields.io/badge/⚙️_DevOps-Enthusiast-00ff41?style=flat-square&labelColor=0d1117" />
-&nbsp;
-<img src="https://img.shields.io/badge/☕_Java-Backend_Learner-ED8B00?style=flat-square&labelColor=0d1117" />
-&nbsp;
-<img src="https://img.shields.io/badge/🤖_AI-Builder-3776AB?style=flat-square&labelColor=0d1117" />
-&nbsp;
-<img src="https://img.shields.io/badge/📍_Bengaluru-India-ffffff?style=flat-square&labelColor=0d1117" />
+![](https://img.shields.io/badge/☕_Java-Full_Stack_Developer-ED8B00?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/⚙️_DevOps-Engineer-00ff41?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/📍_Bengaluru-India-ffffff?style=flat-square&labelColor=0d1117)
 
 <br/><br/>
 
-<!-- Social Links -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohini-c-na16/)
-&nbsp;
 [![GitHub](https://img.shields.io/badge/__rohinicc__-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/__rohinicc__)
-&nbsp;
 [![Gmail](https://img.shields.io/badge/ccrohini04@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ccrohini04@gmail.com)
 
 <br/>
 
-<!-- Divider snake animation -->
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
@@ -47,72 +34,98 @@
 
 ```bash
 ┌─────────────────────────────────────────────────────────────────┐
-│                    $ whoami                                      │
+│  $ whoami                                                        │
 │                                                                  │
 │  Name      :  Rohini C                                          │
-│  Role      :  DevOps Enthusiast | Java Backend | AI Builder     │
+│  Role      :  Java Full Stack Developer & DevOps Engineer       │
 │  Location  :  Bengaluru, Karnataka, India 🇮🇳                   │
 │  Status    :  🟢 Online & Actively Building                     │
 │                                                                  │
 │  Focused on:                                                     │
-│    ⚙️  DevOps tools and workflow automation                      │
-│    ☁️  Cloud deployments and infrastructure                      │
-│    🤖  AI-powered real-world applications                        │
-│    ☕  Java backend development                                  │
+│    ☕  Building scalable Java backend systems                    │
+│    🌐  Full stack web development with React & Spring Boot      │
+│    ⚙️  DevOps automation and CI/CD pipelines                    │
+│    ☁️  Cloud deployments and infrastructure management          │
 │                                                                  │
-│  "Turn ideas into working products. Keep learning."             │
+│  "Build it. Automate it. Ship it."                              │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-<div align="center">
-
 ## 🛠️ Tech Stack
 
-</div>
+<table align="center">
 
-<div align="center">
+  <tr>
+    <td align="center" width="140">
+      <b>☕ Java & Backend</b>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+    </td>
+  </tr>
 
-### 💻 Programming Languages
+  <tr>
+    <td align="center" width="140">
+      <b>🎨 Frontend</b>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    </td>
+  </tr>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+  <tr>
+    <td align="center" width="140">
+      <b>🗄️ Databases</b>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+    </td>
+  </tr>
 
-### ⚙️ DevOps & Cloud
+  <tr>
+    <td align="center" width="140">
+      <b>⚙️ DevOps & Cloud</b>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+      <img src="https://img.shields.io/badge/DockerHub-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+    </td>
+  </tr>
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![DockerHub](https://img.shields.io/badge/DockerHub-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  <tr>
+    <td align="center" width="140">
+      <b>🔧 Tools</b>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+    </td>
+  </tr>
 
-### 🤖 AI / Machine Learning
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
-![CNN Models](https://img.shields.io/badge/CNN_Models-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![MobileNetV2](https://img.shields.io/badge/MobileNetV2-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-### 🌐 Backend & Web
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🔧 Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
+</table>
 
 ---
 
@@ -192,15 +205,11 @@
   ║  Kubernetes in Production     ████████████░░░░  75%  ║
   ║  Advanced CI/CD Pipelines     ██████████░░░░░░  65%  ║
   ║  Cloud Architecture           █████████░░░░░░░  60%  ║
-  ║  AI Infrastructure            ████████░░░░░░░░  55%  ║
+  ║  System Design                ████████░░░░░░░░  55%  ║
   ╚══════════════════════════════════════════════════════╝
 ```
 
-</div>
-
 ---
-
-<div align="center">
 
 ## 🌐 Connect With Me
 
@@ -210,7 +219,7 @@
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-__rohinicc__-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/__rohinicc__)
 &nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-ccrohini04%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ccrohini04@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-ccrohini04@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ccrohini04@gmail.com)
 
 <br/>
 
@@ -218,12 +227,12 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,40:0f3460,100:00ff41&height=120&section=footer&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,40:0f3460,100:00ff41&height=120&section=footer" width="100%"/>
 
 ```
-  > "Automate the boring. Build the meaningful." — Rohini C
+  > "Build it. Automate it. Ship it." — Rohini C
 ```
 
-**`// EOF — Rohini C · Bengaluru, India 🇮🇳`**
+**`// EOF — Rohini C · Java Full Stack & DevOps · Bengaluru 🇮🇳`**
 
 </div>
