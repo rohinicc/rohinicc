@@ -1,17 +1,17 @@
 <div align="center">
 
 <!-- Header: switched to shark style with twinkling animation -->
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0d0d0d,50:0f3460,100:00ff41&height=220&text=Rohini%20C&fontSize=72&fontColor=00ff41&fontAlignY=65&animation=twinkling&desc=Java%20Full%20Stack%20Developer%20%E2%80%A2%20DevOps%20Engineer&descSize=20&descColor=ffffff&descAlignY=85" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0d0d0d,50:0f3460,100:00ff41&height=220&text=Rohini%20C&fontSize=72&fontColor=00ff41&fontAlignY=65&animation=twinkling&desc=Java%20Full%20Stack%20Developer%20%E2%80%A2%20DevOps&descSize=20&descColor=ffffff&descAlignY=85" width="100%"/>
 
 <br/>
 
 <!-- Typing animation: using direct URL that works reliably on GitHub -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=22&duration=2000&pause=900&color=00FF41&center=true&vCenter=true&width=700&height=50&lines=Hi+there+%F0%9F%91%8B%2C+I%27m+Rohini+C;Java+Full+Stack+Developer+%E2%98%95;DevOps+Engineer+%E2%9A%99%EF%B8%8F;Building+%26+Automating+Real-World+Systems;Based+in+Bengaluru%2C+India+%F0%9F%93%8D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=22&duration=2000&pause=900&color=00FF41&center=true&vCenter=true&width=700&height=50&lines=Hi+there+%F0%9F%91%8B%2C+I%27m+Rohini+C;Java+Full+Stack+Developer+%E2%98%95;DevOps+%E2%9A%99%EF%B8%8F;Building+%26+Automating+Real-World+Systems;Based+in+Bengaluru%2C+India+%F0%9F%93%8D" alt="Typing SVG" />
 
 <br/><br/>
 
 ![](https://img.shields.io/badge/%E2%98%95_Java-Full_Stack_Developer-ED8B00?style=flat-square&labelColor=0d1117)
-![](https://img.shields.io/badge/%E2%9A%99%EF%B8%8F_DevOps-Engineer-00ff41?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/%E2%9A%99%EF%B8%8F_DevOps-00ff41?style=flat-square&labelColor=0d1117)
 ![](https://img.shields.io/badge/%F0%9F%93%8D_Bengaluru-India-ffffff?style=flat-square&labelColor=0d1117)
 
 <br/><br/>
@@ -223,5 +223,7 @@
 ```
 
 **`// EOF — Rohini C · Java Full Stack & DevOps · Bengaluru 🇮🇳`**
+
+</div>
 
 </div>
