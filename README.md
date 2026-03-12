@@ -1,16 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00ff41,50:0f3460,100:0d0d0d&height=250&text=Rohini%20C&fontSize=72&fontColor=ffffff&fontAlignY=50&animation=fadeIn&stroke=00ff41&strokeWidth=2&desc=Java%20Full%20Stack%20Developer%20%E2%80%A2%20DevOps%20Engineer&descSize=20&descColor=00ff41&descAlignY=72" width="100%"/>
+<!-- Header: switched to shark style with twinkling animation -->
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0d0d0d,50:0f3460,100:00ff41&height=220&text=Rohini%20C&fontSize=72&fontColor=00ff41&fontAlignY=65&animation=twinkling&desc=Java%20Full%20Stack%20Developer%20%E2%80%A2%20DevOps%20Engineer&descSize=20&descColor=ffffff&descAlignY=85" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=22&duration=2000&pause=900&color=00FF41&center=true&vCenter=true&width=700&height=50&lines=Hi+there+👋,+I'm+Rohini+C;Java+Full+Stack+Developer+☕;DevOps+Engineer+⚙️;Building+%26+Automating+Real-World+Systems;Based+in+Bengaluru,+India+📍" alt="Typing SVG" />
+<!-- Typing animation: using direct URL that works reliably on GitHub -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=22&duration=2000&pause=900&color=00FF41&center=true&vCenter=true&width=700&height=50&lines=Hi+there+%F0%9F%91%8B%2C+I%27m+Rohini+C;Java+Full+Stack+Developer+%E2%98%95;DevOps+Engineer+%E2%9A%99%EF%B8%8F;Building+%26+Automating+Real-World+Systems;Based+in+Bengaluru%2C+India+%F0%9F%93%8D" alt="Typing SVG" />
 
 <br/><br/>
 
-![](https://img.shields.io/badge/☕_Java-Full_Stack_Developer-ED8B00?style=flat-square&labelColor=0d1117)
-![](https://img.shields.io/badge/⚙️_DevOps-Engineer-00ff41?style=flat-square&labelColor=0d1117)
-![](https://img.shields.io/badge/📍_Bengaluru-India-ffffff?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/%E2%98%95_Java-Full_Stack_Developer-ED8B00?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/%E2%9A%99%EF%B8%8F_DevOps-Engineer-00ff41?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/%F0%9F%93%8D_Bengaluru-India-ffffff?style=flat-square&labelColor=0d1117)
 
 <br/><br/>
 
@@ -32,35 +34,35 @@
 
 </div>
 
-```bash
-┌─────────────────────────────────────────────────────────────────┐
-│  $ whoami                                                        │
-│                                                                  │
-│  Name      :  Rohini C                                          │
-│  Role      :  Java Full Stack Developer & DevOps Engineer       │
-│  Location  :  Bengaluru, Karnataka, India 🇮🇳                   │
-│  Status    :  🟢 Online & Actively Building                     │
-│                                                                  │
-│  Focused on:                                                     │
-│    ☕  Building scalable Java backend systems                    │
-│    🌐  Full stack web development with React & Spring Boot      │
-│    ⚙️  DevOps automation and CI/CD pipelines                    │
-│    ☁️  Cloud deployments and infrastructure management          │
-│                                                                  │
-│  "Build it. Automate it. Ship it."                              │
-└─────────────────────────────────────────────────────────────────┘
-```
+<div align="center">
+
+| | |
+|---|---|
+| **Name** | Rohini C |
+| **Role** | Java Full Stack Developer + DevOps |
+| **Location** | Bengaluru, Karnataka, India 🇮🇳 |
+| **Status** | 🟢 Online and Actively Building |
+
+</div>
+
+<br/>
+
+**Focused on:**
+
+- ☕ &nbsp; Building scalable Java backend systems
+- 🌐 &nbsp; Full stack web development with React and Spring Boot
+- ⚙️ &nbsp; DevOps automation and CI/CD pipelines
+- ☁️ &nbsp; Cloud deployments and infrastructure management
+
+> *"Build it. Automate it. Ship it."*
 
 ---
 
 ## 🛠️ Tech Stack
 
 <table align="center">
-
   <tr>
-    <td align="center" width="140">
-      <b>☕ Java & Backend</b>
-    </td>
+    <td align="center" width="150"><b>☕ Java &amp; Backend</b></td>
     <td>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
@@ -72,11 +74,8 @@
       <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
     </td>
   </tr>
-
   <tr>
-    <td align="center" width="140">
-      <b>🎨 Frontend</b>
-    </td>
+    <td align="center" width="150"><b>🎨 Frontend</b></td>
     <td>
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -84,11 +83,8 @@
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
     </td>
   </tr>
-
   <tr>
-    <td align="center" width="140">
-      <b>🗄️ Databases</b>
-    </td>
+    <td align="center" width="150"><b>🗄️ Databases</b></td>
     <td>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -96,11 +92,8 @@
       <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
     </td>
   </tr>
-
   <tr>
-    <td align="center" width="140">
-      <b>⚙️ DevOps & Cloud</b>
-    </td>
+    <td align="center" width="150"><b>⚙️ DevOps &amp; Cloud</b></td>
     <td>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
       <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
@@ -112,11 +105,8 @@
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
     </td>
   </tr>
-
   <tr>
-    <td align="center" width="140">
-      <b>🔧 Tools</b>
-    </td>
+    <td align="center" width="150"><b>🔧 Tools</b></td>
     <td>
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
       <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
@@ -124,7 +114,6 @@
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
     </td>
   </tr>
-
 </table>
 
 ---
@@ -170,7 +159,7 @@
 ```bash
   # Automated Jenkins Pipeline
   [✓] Code pushed → Build triggered automatically
-  [✓] Docker image built & tagged
+  [✓] Docker image built and tagged
   [✓] Image pushed to DockerHub
   [✓] Deployed to worker nodes via Kubernetes
   >>> Status: ACTIVE ✅
