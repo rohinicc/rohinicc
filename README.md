@@ -125,12 +125,12 @@
 </div>
 
 <details>
-<summary>&nbsp;<b>🤖 AI Chatbot with Ollama</b>&nbsp;—&nbsp;<i>Python + DeepSeek Coder + Nginx</i></summary>
+<summary>&nbsp;<b>🤖 AI Chatbot with Ollama</b>&nbsp;—&nbsp;<i>Spring Boot + Java + Ollama</i></summary>
 <br/>
 
 ```
   Description  :  Production-ready AI chatbot for local LLM inference
-  Model        :  DeepSeek Coder (via Ollama)
+  Stack        :  Spring Boot + Java + Ollama
   Infra        :  UFW Firewall + Nginx + Deployment scripts
   Highlight    :  Fully local — zero cloud dependency
   Status       :  ✅ Deployed
@@ -225,5 +225,4 @@
 **`// EOF — Rohini C · Java Full Stack & DevOps · Bengaluru 🇮🇳`**
 
 </div>
-
 </div>
