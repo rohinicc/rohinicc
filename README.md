@@ -209,11 +209,11 @@ philosophy  : "Build it. Automate it. Ship it."
   ╔══════════════════════════════════════════════════════════════╗
   ║  TOPIC                           PROGRESS                    ║
   ╠══════════════════════════════════════════════════════════════╣
-  ║  Kubernetes in Production        ████████████░░░░  75%      ║
-  ║  Advanced CI/CD Pipelines        ██████████░░░░░░  65%      ║
-  ║  Cloud Architecture (AWS)        █████████░░░░░░░  60%      ║
-  ║  System Design                   ████████░░░░░░░░  55%      ║
-  ║  AI/LLM Integrations             █████████████░░░  80%      ║
+  ║  Kubernetes in Production        ████████████░░░░  75%       ║
+  ║  Advanced CI/CD Pipelines        ██████████░░░░░░  65%       ║
+  ║  Cloud Architecture (AWS)        █████████░░░░░░░  60%       ║
+  ║  System Design                   ████████░░░░░░░░  55%       ║
+  ║  AI/LLM Integrations             █████████████░░░  80%       ║
   ╚══════════════════════════════════════════════════════════════╝
 ```
 
